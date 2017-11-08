@@ -1,0 +1,36 @@
+hnlichkeiten gesucht, c't 5/95, Seite 294, (ad) 
+------------------------------------------------
+
+bitfld.h        Include-Datei mit Makros zu Bitmanipulation
+parser.c        Einfacher Parser mit "State Machine" zur Verarbeitung
+                der Eingabezeile
+parser.h        Include-Datei dazu
+afind.c         Modul mit dem fehlertoleranten Suchalgorithmus
+afind.h         Include-Datei dazu
+main.c          Hauptprogramm (Aufruf-Parameter siehe unten)
+
+Das Programm ist in C geschrieben. Es wurde mit Borland-C 3.1 und 
+GNU-C 2.2.2 bersetzt; andere Compiler drften jedoch keine Probleme
+damit haben.
+
+Das Programm implementiert den Suchalgorithmus "Shift-AND". Dieser
+arbeitet ohne direkte Vergleiche; er fhrt einen (oder mehrere) 
+Zustandsvektor(en), der durch logische Operationen ver„ndert wird
+(im oben genannten Artikel nachzulesen).
+
+Der Algorithmus erlaubt die Wildcards "?" (fr ein beliebiges Zeichen)
+und "*" (fr beliebig viele beliebige Zeichen). Auáerdem toleriert
+er 0 bis 8 Fehler (Einfgung, L”schung oder Ersetzung eines Zeichens)
+im Muster.
+
+Aufruf:         afind [-n] [-i] muster datei
+
+Das Programm ”ffnet die Datei "datei" und sucht darin nach "muster".
+Enth„lt das Muster ein Leerzeichen, muá es in Anfhrungszeichen
+gesetzt werden. Dir optionalen Parameter: "n" ist eine Zahl zwischen
+0 und 8, welche die Anzahl der zugelassenen Fehler angibt (default
+ist 0), "i" weist das Programm an, Groá- und Kleinschreibung zu
+ignorieren. 
+
+
+

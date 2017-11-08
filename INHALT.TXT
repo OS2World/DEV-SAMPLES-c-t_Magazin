@@ -1,0 +1,60 @@
+              c't - Magazin fuer Computertechnik
+
+                Verlag Heinz Heise GmbH & Co KG
+                      Helstorfer Str. 7
+                       30625 Hannover
+
+Die in diesem Archiv enthaltene Software ist urheberrechtlich geschuetzt.
+Es handelt sich nicht um Public-Domain-Software. Sie ist nicht fuer den
+Handel bestimmt. Im allgemeinen ist fuer das Verstaendnis und die
+Inbetriebnahme der Software der dazu in c't veroeffentlichte Artikel
+Voraussetzung. Wir koennen keine Hilfestellung geben, wenn der
+entsprechende Artikel beim Anwender nicht bekannt ist.
+
+--------------------------------------------------------------------------
+                     Listings aus c't 5/95
+
+Hefttitel                         Seite    Rechner          Listings
+----------------------------------------------------------------------------
+éhnlichkeiten gesucht             294       PC              AFIND    C
+                                                            AFIND    H
+                                                            BITFLD   H
+                                                            MAIN     C
+                                                            PARSER   C
+                                                            PARSER   H
+                                                            AEHNLICH TXT
+
+Bastelstunde                      230       PC              ISDI202  ZIP
+                                                            ISPA305  ZIP
+                                                            PAPI020  ZIP
+                                                            BASTELST TXT
+
+Parallel zu Papier                284       MAC             MCP      BIN
+                                                            MCP      HEX
+                                                            DROPS    P
+                                                            DSAPEV   P
+                                                            DSGLOB   P
+                                                            DSUSERP  P
+                                                            DSUTILS  P
+                                                            RSRC     HQX
+                                                            PI       HQX
+                                                            PRGM     HQX
+                                                            MCP      PAS
+                                                            PARALLEL TXT
+
+Rahmenkonstruktion                302       MAC             RAHMENKO TXT
+                                                            PART_MAC SEA
+                                                            REDPRT   CPP
+                                                            REDPRT   DLL
+                                                            REDPRT   IDL
+
+SchlÅsselwart                     278       PC              SUPER    PAS
+                                                            SCHLUESS TXT
+
+Universeller BehÑlter             310       PC              CONTAINE CPP
+                                                            CONTAINE H
+                                                            PROBE    CPP
+                                                            PROBE    DEF
+                                                            PROBE    RES
+                                                            UNIVERSE TXT
+

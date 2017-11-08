@@ -1,0 +1,29 @@
+Parallel zu Papier,  c't 5/95, S. 284 (cm)
+-------------------------------------------
+
+MCP.PAS   Betriebsprogramm Seriell/Parallel-Wandler fÅr Drucker mit 
+          Centronics-Interface am Mac und anderen Rechnern 
+          mit RS232- oder RS422-Schnittstelle.
+MCP.HEX   Intel-HEX-File,
+MCP.BIN   BinÑrfile fÅr 27(C)64 EPROM
+DS*.P     DropShell-Sourcen, Think Pascal 4.02
+*.hqx     Macintosh-Ressourcen und lauffÑhige Programme,
+          BinHex-encoded (StuffIt oder BinHex4)
+
+Erstellt unter Verwendung des KSC PAS51-Compilers 
+fÅr 8051 und Derivate. énderung gegenÅber Beschreibung in c't: 
+
+- J2 gesteckt ruft eine Drucker-Testroutine auf 
+  (funktioniert auch ohne serielle Verbindung):
+  Der Drucker sollte eine Meldung und seinen 
+  Zeichensatz ausdrucken
+- LED D1 glimmt nach dem Einschalt-Blinken im Ruhezustand
+- FÅr IC4 und IC5 den Typ 74LS07 statt 7407 einsetzen,
+  vermindert Stromverbrauch
+- C6 sollte bei Reset-Problemen auf Elko 1uF bis 4,7uF/16V 
+  vergrî·ert werden, Pluspol zeigt in Richtung IC5 (74LS07)
+
+Carsten Meyer, Redaktion c't
+
+
+

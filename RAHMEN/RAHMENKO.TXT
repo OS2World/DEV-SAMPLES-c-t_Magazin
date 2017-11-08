@@ -1,0 +1,19 @@
+Rahmenkonstruktion    c't 5/95, S. 302 (jl)
+--------------------------------------------
+OpenDoc-Entwicklung unter OS/2 und Mac OS
+
+
+Die Dateien enthalten den Beispiel-Part-Handler "RedPart" als
+Sourcecode und fertige DLL bzw. Shared Library fÅr OS/2 und Mac OS.
+
+PART_MAC.SEA Selbstextrahierendes Archiv fÅr Macintosh (MacBinary-Format)
+             mit dem Inhalt:
+             CPRedPart.h    Header der C++-Helferklasse
+             CPRedPart.cpp  Implementation der C++-Helferklasse
+             RedPart        fertige Shared Library
+REDPART.IDL  IDL-Datei fÅr OS/2
+REDPART.CPP  C++-Implementation fÅr OS/2
+REDPART.DLL  fertige DLL fÅr OS/2
+
+
+

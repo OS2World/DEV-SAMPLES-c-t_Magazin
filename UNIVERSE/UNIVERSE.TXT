@@ -1,0 +1,24 @@
+Universeller Beh„lter   c't 5/95, S. 310, (db)
+-----------------------------------------------
+
+universe.txt    dieser Text
+containe.cpp	Container-Klasse fr Borlands OS/2-OWL
+containe.h	Header-File
+probe.cpp	Beispiel fr einen Container
+probe.def	Definitions-File fr den Compiler
+probe.res	Ressource-File
+probe.exe	lauff„higes Programm
+
+Nachdem c't der Borland-OWL fr OS/2 bereits in Heft 4/95
+den Container implantiert hat, erg„nzt sie dieser Artikel
+um das interessanteste Objekt der Workplace Shell: den
+Container. Damit lassen sich mit der OWL schon weitgehend
+WPS-konforme Programme schreiben.
+
+Probe.cpp zeigt ein Beispiel zur Benutzung der Container-
+Klasse. Das Programm zeigt alle Fonts, die mit "F" beginnen,
+in einem Container an, wobei man auf die unterschiedlichen
+Ansichten (Views) umschalten kann.
+
+
+

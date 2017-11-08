@@ -1,0 +1,34 @@
+#ifndef _REDPRT_
+#define _REDPRT_
+#ifndef _SIMPLPRT_
+#include <SimplPrt.idl>
+#endif
+
+interface RedPart : SimplePart
+{
+    void    CommonInitRedPart () ;
+
+#ifdef __SOMIDL__
+    implementation
+    {
+            functionprefix = redprt ;
+            majorversion   = 1 ;
+            minorversion   = 0 ;
+
+        releaseorder:
+            CommonInitRedPart ;
+
+        override:
+            InitPart,
+            InitPartFromStorage,
+            Externalize,
+            HandleEvent,
+            Draw ;
+
+        // instance variables
+        long    count ;
+        } ;
+#endif
+} ;
+
+#endif  // _REDPRT_

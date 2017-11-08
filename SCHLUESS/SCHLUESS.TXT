@@ -1,0 +1,16 @@
+SchlÅsselwart, c't 5/95, S. 278, (un)
+------------------------------------------------------------------------
+
+Supervisor-Rechte unter NetWare 3.x einfach an- und ausschalten
+
+Super.Pas        Borland-Pascal-Source
+Super.Exe        AusfÅhrbares Programm
+Super.Doc        Dieser Text
+
+Verwendung: SUPER             (gibt aktuellen Status aus)
+            SUPER -           (Schaltet Supervisor-équivalenz aus)
+            SUPER +           (Schaltet Supervisor-équivalenz wieder ein)
+
+
+
+

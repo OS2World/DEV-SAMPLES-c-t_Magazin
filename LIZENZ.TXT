@@ -1,0 +1,38 @@
+              c't - Magazin fuer Computertechnik
+
+                Verlag Heinz Heise GmbH & Co KG
+                      Helstorfer Str. 7
+                      3000 Hannover 61
+
+Die in diesem Archiv enthaltene Software ist urheberrechtlich geschuetzt.
+Es handelt sich nicht um Public-Domain-Software. Sie ist nicht fuer den
+Handel bestimmt. Im allgemeinen ist fuer das Verstaendnis und die
+Inbetriebnahme der Software der dazu in c't veroeffentlichte Artikel
+Voraussetzung. Wir koennen keine Hilfestellung geben, wenn der
+entsprechende Artikel beim Anwender nicht bekannt ist.
+
+Sie erhalten die Genehmigung, dieses Archiv in Datennetzen zu kopieren und
+auch Teile daraus Ihren Usern zum Download anzubieten, sofern Sie folgende
+Bedingungen einhalten:
+
+1. Den Usern duerfen neben den ueblichen Gebuehren keine zusaetzlichen
+   Kosten entstehen.
+2. Der Anwender muss ueber den Ursprung der Software informiert sein.
+
+!!!        Diese Genehmigung gilt nicht fuer den Bildschirmtext        !!!
+                 der DBP Telekom oder aehnliche Systeme.
+
+Wir veroeffentlichen Monat fuer Monat eine aktuelle Liste mit Mailboxen,
+die unsere Listings beziehungsweise die c't-Diskussionsforen anbieten.
+Falls Sie ein Interesse daran haben, dass wir die Daten Ihres Systems
+abdrucken, so schicken Sie uns bitte folgende Daten:
+
+1. Name und Standort des Systems
+2. Tel.-Nummern der oeffentlichen Zugaenge und Geschwindigkeiten der Ports
+3. Kosten fuer den Benutzereintrag
+4. Bieten Sie die c't-Listings an?
+6. Bieten Sie die c't-Diskussionsforen an?
+5. Eine Genehmigung, dass wir diese Daten in der Zeitschrift c't bis auf
+   Widerruf abdrucken duerfen.
+
+

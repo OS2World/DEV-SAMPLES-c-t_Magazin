@@ -1,0 +1,9 @@
+Bastelstunde
+------------
+Mac und Windows: ISDN-Pfade zum WWW knŸpfen
+c't 5/95, S. 230 (dz)
+
+Die Dateien enthalten die drei Shareware-Treiber für DOS/Windows, der
+Mac-Treiber LeoTCP ist kostenlos auf Anfrage bei Hermstedt, Mannheim,
+erhaeltlich.
+
